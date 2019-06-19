@@ -1,6 +1,9 @@
 # Majikunaki
 Visualization tools made with shiny and ggplot2
 
+<br />
+<br />
+
 <html>
   </body>
     <h1><u>Background</u></h1>
