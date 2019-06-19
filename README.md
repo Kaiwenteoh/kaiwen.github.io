@@ -5,13 +5,13 @@ Visualization tools made with shiny and ggplot2
   </body>
     <h1><u>Background</u></h1>
 
-     <p><i>Majikunaki</i> is a undergraduate project which is aimed to help non-technical users
+<p><i>Majikunaki</i> is a undergraduate project which is aimed to help non-technical users
       in the process of data visualization. Two web-based applications are proposed in this project 
       and named as <b>App I</b> and <b>App II</b>. Both tools are made with <a href="https://shiny.rstudio.com/" target="_blank"><i>shiny</i></a> and implement R data visualization package,  
       <a href="https://ggplot2.tidyverse.org/" target="_blank"><i>ggplot2</i></a>.
       <br /> <br />
       An overview of the whole project can be found <a href="https://kaiwenteoh.github.io/majikunaki/" target="_blank">here</a>.
-    </p>
+</p>
 
 <br />
 <br />
