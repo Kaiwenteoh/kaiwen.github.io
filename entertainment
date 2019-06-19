@@ -44,7 +44,7 @@ a {
   font-size: 2rem;
 }
 
-section#entertainment {
+section#features {
   background: url(box.jpg) no-repeat bottom/cover;
   padding: 10rem 0;
 }
