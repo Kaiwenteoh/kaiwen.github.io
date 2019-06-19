@@ -1,4 +1,4 @@
-# majikunaki
+# Majikunaki
 Visualization tools made with shiny and ggplot2
 
 <html>
