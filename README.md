@@ -1,5 +1,5 @@
 # Majikunaki
-Visualization tools made with shiny and ggplot2
+Visualization tools made with shiny and ggplot2.
 
 <br />
 <br />
